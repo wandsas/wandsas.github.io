@@ -2,7 +2,7 @@
 ## Welcome to wandsas github pages
 
 
-### dotfiles repos
+### my dotfiles
 
 * [https://github.com/wandsas/shell-env](https://github.com/wandsas/shell-env)
 * [https://github.com/wandsas/mr-config](https://github.com/wandsas/mr-config)
@@ -31,7 +31,7 @@
 
 * [https://github.com/wandsas/wandsas-overlay](https://github.com/wandsas/wandsas-overlay)
 
-### forks from other users
+### forked from others
 
 * [hhtps://github.com/grml/grml-debootstrap](https://github.com/wandss/grml-debootstrap)
 * [https://github.com/grml/grml-live](https://github.com)
@@ -42,7 +42,9 @@
 * [https://github.com/rbenv/rbenv](https://github.com/rbenv/rbenv)
 * [https://github.com/creationix/nvm] (https://github.com/creationix/nvm)
 
-### links about pentesting
+### Preferred Linux Live-Isos for bootstrapping and administration purposes
+
+### Penetration Teating
 
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
 * [Pentoo - Security focused livecd based on Gentoo Linux](https://github.com/enaqx/awesome-pentest)
@@ -51,7 +53,7 @@
 
 * [Fedora Security Lab](https://labs.fedoraproject.org/en/security/)
 
-### links about zsh
+### The Z-Shell
 
 * [Grml-Zsh-Refcard](https://grml.org/zsh/grml-zsh-refcard.pdf)
 * [GRMLZSHRC](https://grml.org/zsh/grmlzshrc.html)
