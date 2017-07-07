@@ -4,16 +4,16 @@
 
 ### dotfiles repos
 
-* [https://github.com/wandsas/shell-env] (https://github.com/wandsas/shell-env)
-* [https://github.com/wandsas/mr-config] (https://github.com/wandsas/mr-config)
-* [https://github.com/wandsas/tmux-config] (https://github.com/wandsas/tmux-config)
-* [https://github.com/wandsas/git-config] (https://github.com/wandsas/git-config)
-* [https://github.com/wandsas/tmux-config] (https://github.com/wandsas/tmux-config)
-* [https://github.com/wandsas/vim-config] (https://github.com/wandsas/vim-config)
-* [https://github.com/wandsas/neovim-config] (https://github.com/wandsas/neotmux-config)
-* [https://github.com/wandsas/emacs-config] (https://github.com/wandsas/emnacs-config)
-* [https://github.com/wandsas/desktop-darwin] (https://github.com/wandsas/desktop-darwin)
-* [https://github.com/wandsas/desktop-linux] (https://github.com/wandsas/desktop-linux)
+* [https://github.com/wandsas/shell-env](https://github.com/wandsas/shell-env)
+* [https://github.com/wandsas/mr-config](https://github.com/wandsas/mr-config)
+* [https://github.com/wandsas/tmux-config](https://github.com/wandsas/tmux-config)
+* [https://github.com/wandsas/git-config](https://github.com/wandsas/git-config)
+* [https://github.com/wandsas/tmux-config](https://github.com/wandsas/tmux-config)
+* [https://github.com/wandsas/vim-config](https://github.com/wandsas/vim-config)
+* [https://github.com/wandsas/neovim-config](https://github.com/wandsas/neotmux-config)
+* [https://github.com/wandsas/emacs-config](https://github.com/wandsas/emnacs-config)
+* [https://github.com/wandsas/desktop-darwin](https://github.com/wandsas/desktop-darwin)
+* [https://github.com/wandsas/desktop-linux](https://github.com/wandsas/desktop-linux)
 
 ### vagrant vboxes
 
