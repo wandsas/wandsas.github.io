@@ -68,6 +68,5 @@
 * [ZSH Project Page](https://sourceforge.net/projects/zsh/)
 
 
-Cheers wandsas 07/07/2017
-
-* [View my gpg key onkeybase.io] <https://keybase.io/wandsas/pgp_keys.asc>
+Cheers wandsas
+<https://keybase.io/wandsas/pgp_keys.asc>
