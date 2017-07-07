@@ -70,4 +70,4 @@
 
 Cheers wandsas 07/07/2017
 
-* [View my gpg key on keybase.io] <https://keybase.io/wandsas/pgp_keys.asc>
+* [View my gpg key onkeybase.io] <https://keybase.io/wandsas/pgp_keys.asc>
