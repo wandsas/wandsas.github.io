@@ -33,13 +33,9 @@
 
 ### forked from others
 
-* [hhtps://github.com/grml/grml-debootstrap](https://github.com/wandss/grml-debootstrap)
-* [https://github.com/grml/grml-live](https://github.com)
-* [https://github.com/wandsas/grml2usb](https://github.com/grml)
-* [https://github.com/grml/grml-etc-core](https://githjub.com/wandsas/grml-etc-core)
-* [https://anonscm.debian.org/d-i/debootstrap](https://anonscm.debian.org/d-i/debootstrap)
-* [https://anonscm.debian.org/buildd-tools/schroot](https://anonscm.debian.org/buildd-tools/schroo)
-* [https://github.com/rbenv/rbenv](https://github.com/rbenv/rbenv)
+* [https://github.com/pyenv/pyenv(https://github.com/pyenv/pyenv)
+* [https://github.com/pyenv/pyenv-virtualenv(https://github.com/pyenv/pyenv-virtualenv)
+* [https://github.com/rbenv/rbenv(https://github.com/rbenv/rbenv)
 * [https://github.com/creationix/nvm] (https://github.com/creationix/nvm)
 
 ### Preferred Linux Live-Isos for bootstrapping and administration purposes
