@@ -60,17 +60,17 @@
 
 ## The Z-Shell (ZSH) ##
 
-### ZSH manuals ###
+### ZSH Manuals ###
 * [The Z-Shell Manual](http://zsh.sourceforge.net/Doc/Release/zsh_toc.html)
 * [A User's Guide to the Z-Shell](http://zsh.sourceforge.net/Guide/zshguide.html)
 
-### Cheatsheets ###
+### ZSH Cheatsheets ###
 * [Grml-Zsh-Refcard](https://grml.org/zsh/grml-zsh-refcard.pdf)
 * [GRMLZSHRC](https://grml.org/zsh/grmlzshrc.html)
 * [ZSH-LOVERS](https://grml.org/zsh/zsh-lovers.html)
 * [ZSH Tipps](http://www.rayninfo.co.uk/tips/zshtips.html)
 
-### ZSH project site & other wikis ###
+### ZSH Project site & other wikis ###
 * [ZSH Wiki](http://zshwiki.org/home/)
 * [The Single UNIX ® Specification, Version 2](http://pubs.opengroup.org/onlinepubs/007908799/xcu/shellix.html)
 * [ZSH Main Size](http://zsh.sourceforge.net/)
