@@ -30,7 +30,7 @@
 ## Gentoo Linux ##
 
 ### Gentoo overlays ###
-* [wandsas Gentoo overlay, yet another overlay](https://github.com/wandsas/wandsas-overlay)
+* [wandsas overlay, yet another Gentoo overlay](https://github.com/wandsas/wandsas-overlay)
 
 
 ### Gentoo for ARM devices ###
